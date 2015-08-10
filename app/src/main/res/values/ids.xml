@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item type="id" name="CACHE_BITMAP_KEY"></item>
+    <item type="id" name="CACHE_BITMAP_DIRTY_KEY"></item>
+</resources>
